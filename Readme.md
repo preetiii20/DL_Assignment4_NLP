@@ -143,8 +143,8 @@ Example predictions:
 
 ## Author
 
-Student Name: Preeti Koli
-PRN  Number: 202301040213
+Student Name: Preeti Koli ,
+PRN  Number: 202301040213,
 Batch : - 2
-Subject: Deep Learning Practical
+
 
