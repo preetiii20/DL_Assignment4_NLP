@@ -143,7 +143,8 @@ Example predictions:
 
 ## Author
 
-Student Name: [Your Name]
-Roll Number: [Your Roll Number]
+Student Name: Preeti Koli
+PRN  Number: 202301040213
+Batch : - 2
 Subject: Deep Learning Practical
-Submission Date: April 2026
+
